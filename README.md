@@ -15,8 +15,8 @@ The Expense Tracker is a personal project created to strengthen my skills in bui
 ## Features
 
 - Simple and clean user interface
-- Responsive layout (if implemented)
-- Expense tracking functionality (based on implemented features)
+- Responsive layout 
+- Expense tracking functionality 
 
 ## Getting Started
 
@@ -31,7 +31,6 @@ The Expense Tracker is a personal project created to strengthen my skills in bui
 2. Open the project folder.
 3. Open `index.html` in your web browser.
 
-No additional installation is required for a basic HTML, CSS, and JavaScript project.
 
 ## Project Structure
 
@@ -42,8 +41,6 @@ EXPENSE-TRACKER/
 ├── script.js
 └── README.md
 ```
-
-*Note: Update the file structure above to match the actual files in your repository.*
 
 ## What I Learned
 
@@ -59,8 +56,6 @@ EXPENSE-TRACKER/
 - Improve mobile responsiveness
 - Add data persistence using local storage
 
-*These are planned improvements, not necessarily existing features.*
-
 ## Author
 
 **Sana**
@@ -70,5 +65,3 @@ EXPENSE-TRACKER/
 ---
 
 This project is part of my journey in learning front-end development and building practical projects.
-# EXPENSE-TRACKER
-A simple and interactive Expense Tracker web application built using HTML, CSS, and JavaScript to manage daily expenses and track spending.
