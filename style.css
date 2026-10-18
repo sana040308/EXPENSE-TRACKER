@@ -1,0 +1,100 @@
+body{
+    background-color: #111827 ;
+    font-family: Inter,"Segoe UI", Arial, sans-serif;
+    color: #f9fafb; 
+    margin: 0;
+    padding: 20px;
+}
+h1{
+  color: white;
+  text-align: center;
+}
+h2{
+    text-align: center;
+
+}
+#summary-cards{
+    background-color: #1f2937;
+    border-color: #374151;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    padding: 16px;
+}
+.summary-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #1f2937;
+    border: 1px solid #374151;
+    border-radius: 10px;
+    flex: 1;
+    box-sizing:border-box;
+    padding: 20px;
+    text-align: center;
+}
+.summary-card h3{
+    font-size: 16px;
+    color: #9ca3af;
+    margin-bottom: 8px;
+}
+.form-group{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 16px;
+    gap: 6px;
+}
+#transaction-form input{
+    padding: 16px;
+    background-color: #0b1220;
+    color: #f9fafb;
+    border: 1px solid #374151;
+    border-radius: 8px;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+}
+#transaction-form select{
+    padding:16px ;
+    background-color:#0b1220 ;
+    color: #f9fafb;
+    border: 1px solid #374151;
+    border-radius: 8px;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+}
+#transaction-form button{
+    background-color: #10b981;
+    color: #111827;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 100%;
+}
+#transaction-form button:hover{
+    background-color: #059669;
+}
+section{
+    background-color: #1f2937;
+    border: 1px solid #374151;
+    border-radius: 12px;
+    padding: 24px;
+    margin: 24px auto;
+    max-width: 800px;
+}
+#transaction-list{
+    list-style: none;
+    padding: 0px;
+    margin-top: 20px;
+}
+#transaction-list li{
+    background-color: #111827;
+    border: 1px solid #374151;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 12px;
+}
