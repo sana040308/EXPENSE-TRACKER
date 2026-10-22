@@ -18,19 +18,6 @@ The Expense Tracker is a personal project created to strengthen my skills in bui
 - Responsive layout 
 - Expense tracking functionality 
 
-## Getting Started
-
-### Run Locally
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/sana040308/EXPENSE-TRACKER.git
-   ```
-
-2. Open the project folder.
-3. Open `index.html` in your web browser.
-
 
 ## Project Structure
 
